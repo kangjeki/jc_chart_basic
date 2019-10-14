@@ -3,7 +3,7 @@ Chart SVG Project
 
 <img src="chart.png" style="width: 500px;">
 
-# Uses
+# Use
 Function and Target ID
 
     JC_Chart('chart_id_target',
