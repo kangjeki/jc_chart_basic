@@ -1,5 +1,5 @@
 # jc_chart_basic
-Chart SVG Project
+Simple Chart SVG
 
 <img src="chart.png" style="width: 500px;">
 
